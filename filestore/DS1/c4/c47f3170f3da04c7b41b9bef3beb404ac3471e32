@@ -1,0 +1,57 @@
+
+/* <inline asset> defined in bundle 'web.assets_backend_legacy_lazy' */
+@charset "UTF-8"; 
+
+/* /web/static/lib/bootstrap/scss/_functions.scss defined in bundle 'web.assets_backend_legacy_lazy' */
+ 
+
+/* /web/static/lib/bootstrap/scss/_mixins.scss defined in bundle 'web.assets_backend_legacy_lazy' */
+ 
+
+/* /web/static/src/legacy/scss/bs_mixins_overrides.scss defined in bundle 'web.assets_backend_legacy_lazy' */
+ 
+
+/* /web/static/src/legacy/scss/utils.scss defined in bundle 'web.assets_backend_legacy_lazy' */
+ 
+
+/* /web/static/src/legacy/scss/primary_variables.scss defined in bundle 'web.assets_backend_legacy_lazy' */
+ 
+
+/* /mail/static/src/scss/variables/primary_variables.scss defined in bundle 'web.assets_backend_legacy_lazy' */
+ 
+
+/* /web_editor/static/src/scss/web_editor.variables.scss defined in bundle 'web.assets_backend_legacy_lazy' */
+ 
+
+/* /portal/static/src/scss/primary_variables.scss defined in bundle 'web.assets_backend_legacy_lazy' */
+ 
+
+/* /account/static/src/scss/variables.scss defined in bundle 'web.assets_backend_legacy_lazy' */
+ @keyframes animate-red{0%{color: red;}100%{color: inherit;}}.animate{animation: animate-red 1s ease;}
+
+/* /web/static/src/legacy/scss/secondary_variables.scss defined in bundle 'web.assets_backend_legacy_lazy' */
+ 
+
+/* /web_editor/static/src/scss/secondary_variables.scss defined in bundle 'web.assets_backend_legacy_lazy' */
+ 
+
+/* /web/static/src/legacy/scss/bootstrap_overridden.scss defined in bundle 'web.assets_backend_legacy_lazy' */
+ 
+
+/* /web/static/src/legacy/scss/bs_mixins_overrides_backend.scss defined in bundle 'web.assets_backend_legacy_lazy' */
+ 
+
+/* /web_editor/static/src/scss/bootstrap_overridden_backend.scss defined in bundle 'web.assets_backend_legacy_lazy' */
+ 
+
+/* /web_editor/static/src/scss/bootstrap_overridden.scss defined in bundle 'web.assets_backend_legacy_lazy' */
+ 
+
+/* /web/static/lib/bootstrap/scss/_variables.scss defined in bundle 'web.assets_backend_legacy_lazy' */
+ 
+
+/* /web/static/src/legacy/scss/graph_view.scss defined in bundle 'web.assets_backend_legacy_lazy' */
+ .o_legacy_graph_renderer{height: 100%;}.o_legacy_graph_renderer .o_graph_canvas_container{padding-top: 5px; position: relative; height: 100%; width: 100%; top: 0px; left: 0px;}.o_legacy_graph_renderer .o_graph_canvas_container canvas{background-color: white;}.o_legacy_graph_renderer div.o_tooltip_legend{background-color: white; color: black; font-size: 12px; border: black solid 0.5px; border-radius: 3px; opacity: 1; position: absolute; padding: 10px; z-index: 2; pointer-events: none; word-break: break-all;}.o_legacy_graph_renderer div.o_graph_custom_tooltip{border-radius: 3px; background-color: white; border: black solid 0.5px; position: absolute; z-index: 1; padding: 6px; pointer-events: none; opacity: 0.9; font-family: Arial;}.o_legacy_graph_renderer div.o_graph_custom_tooltip table{font-size: 12px; overflow: hidden; display: block; border-collapse: collapse;}.o_legacy_graph_renderer div.o_graph_custom_tooltip th.o_measure{color: black; font-weight: bolder; vertical-align: baseline; padding-bottom: 1px;}.o_legacy_graph_renderer div.o_graph_custom_tooltip td span.o_square{height: 12px; width: 12px; display: inline-block; vertical-align: middle; margin-right: 5px;}.o_legacy_graph_renderer div.o_graph_custom_tooltip td span.o_label{text-overflow: ellipsis; overflow: hidden; white-space: nowrap; color: black; display: inline-block; vertical-align: middle;}.o_legacy_graph_renderer div.o_graph_custom_tooltip td.o_value{color: black; padding-left: 5px; text-align: right; font-weight: bold;}.o_legacy_graph_renderer div.o_graph_custom_tooltip tr.o_show_more{text-align: center; color: black; font-weight: bolder;}
+
+/* /web/static/src/legacy/scss/pivot_view.scss defined in bundle 'web.assets_backend_legacy_lazy' */
+ .o_legacy_pivot .o_pivot_cell_value{font-size: 1em;}.o_legacy_pivot .o_pivot_cell_value .o_comparison{font-size: 0.61em;}.o_legacy_pivot .o_pivot_cell_value .o_variation.o_positive{color: green;}.o_legacy_pivot .o_pivot_cell_value .o_variation.o_negative{color: red;}.o_legacy_pivot table{background-color: white; width: auto;}.o_legacy_pivot table.o_enable_linking .o_pivot_cell_value:not(.o_empty):hover{color: #71639e; cursor: pointer;}.o_legacy_pivot table thead th:not(.o_pivot_header_cell_closed):not(.o_pivot_header_cell_opened):not(.o_pivot_header_cell){text-align: center;}.o_legacy_pivot table th{font-weight: normal; background-color: white;}.o_legacy_pivot table .o_pivot_measure_row{background-color: white; cursor: pointer; white-space: nowrap; user-select: none;}.o_legacy_pivot table .o_pivot_measure_row:hover{background-color: white;}.o_legacy_pivot table .o_pivot_header_cell{white-space: nowrap; user-select: none;}.o_legacy_pivot table .o_pivot_header_cell_closed{background-color: white; cursor: pointer; white-space: nowrap; user-select: none;}.o_legacy_pivot table .o_pivot_header_cell_closed:hover{background-color: white;}.o_legacy_pivot table .o_pivot_header_cell_closed::before{font-family: FontAwesome; content: ""; margin-right: 8px;}.o_legacy_pivot table .o_pivot_header_cell_opened{background-color: white; cursor: pointer; white-space: nowrap; user-select: none;}.o_legacy_pivot table .o_pivot_header_cell_opened:hover{background-color: white;}.o_legacy_pivot table .o_pivot_header_cell_opened::before{font-family: FontAwesome; content: ""; margin-right: 8px;}.o_legacy_pivot table .o_pivot_sort_order_asc::after{content: ""; display: inline-block; width: 0; height: 0; vertical-align: middle; -moz-transform: scale(0.9999); border-bottom: 4px solid var(--o-input-border-color, currentColor); border-left: 4px solid transparent; border-right: 4px solid transparent; border-top: 0; margin-left: 5px;}.o_legacy_pivot table .o_pivot_sort_order_desc::after{content: ""; display: inline-block; width: 0; height: 0; vertical-align: middle; -moz-transform: scale(0.9999); border-bottom: 0; border-left: 4px solid transparent; border-right: 4px solid transparent; border-top: 4px solid var(--o-input-border-color, currentColor); margin-left: 5px;}.o_legacy_pivot table .o_pivot_cell_value.o_cell_hover{background-color: rgba(0, 0, 0, 0.04);}.o_legacy_pivot .o_pivot_field_selection::after{content: ""; display: inline-block; width: 0; height: 0; vertical-align: middle; -moz-transform: scale(0.9999); border-bottom: 4px solid transparent; border-left: 4px solid var(--o-input-border-color, currentColor); border-right: 0; border-top: 4px solid transparent; position: absolute; right: 6px; top: 9px;}.o_legacy_pivot .o_pivot_field_menu .dropdown-item.disabled{color: rgba(73, 80, 87, 0.76); cursor: default;}
